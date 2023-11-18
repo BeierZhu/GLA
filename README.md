@@ -12,3 +12,6 @@ To this end, GLA has an optimization-based bias estimation approach for debiasin
 For now, I've uploaded the code from the supplementary materials submitted for NeurIPS. 
 The code in [code.zip](code.zip) primarily contains the many-shot experiment results for ImageNet1K. 
 I will update the Few-shot and Longtail code in the future. Thank you for your patience
+- 18 Nov 2023. Thanks for your patience again. I just upload the few-shot training and evalution code in [GLA.FS.public.zip].
+The code also includes the log(q) estimating process.
+I will update the Long-tail code and log(q) estimtation code of many-shot before the commencement of NeurIPS 2023. 
