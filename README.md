@@ -14,4 +14,6 @@ The code in [code.zip](code.zip) primarily contains the many-shot experiment res
 I will update the Few-shot and Longtail code in the future. Thank you for your patience
 - 18 Nov 2023. Thanks for your patience again. I just upload the few-shot training and evalution code in [GLA.FS.public.zip](GLA.FS.public.zip).
 The code also includes the log(q) estimating process.
-I will update the Long-tail code and log(q) estimtation code of many-shot before the commencement of NeurIPS 2023. 
+I will update the Long-tail code and log(q) estimtation code of many-shot before the commencement of NeurIPS 2023.
+- 21 Apr 2024. I forgot to upload ``Dassl'' package, please install the ``Dassl.ProGrad.pytorch'' first then run the ``GLA.FS.public''.
+`
